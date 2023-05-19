@@ -1,0 +1,22 @@
+{
+  "name": "gulp-project",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "del": "~2.0.2",
+    "gulp": "~3.9.0",
+    "gulp-minify-html": "^1.0.6",
+    "gulp-rev": "~6.0.1",
+    "gulp-uglify": "~1.4.1",
+    "gulp-usemin": "^0.3.30",
+    "gulp-load-plugins": "~0.10.0",
+    "main-bower-files": "~2.9.0",
+    "uglify-save-license": "~0.4.1"
+  }
+}
